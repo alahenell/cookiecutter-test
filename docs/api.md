@@ -3,23 +3,11 @@
 ## Models
 
 ```{eval-rst}
-.. module:: biolord
+.. module:: biolord.model
 .. currentmodule:: biolord
 
 .. autosummary::
     :toctree: generated
 
-    Biolord
-```
-
-## Modules
-
-```{eval-rst}
-.. currentmodule:: biolord
-
-.. autosummary::
-    :toctree: generated
-
-    BiolordModule
-    BiolordClassifyModule
+    CauTrigger1L
 ```
