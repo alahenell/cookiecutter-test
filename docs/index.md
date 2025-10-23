@@ -17,7 +17,5 @@ references.md
 :hidden: true
 :maxdepth: 1
 
-tutorials/biolord_pipeline
-tutorials/biolord_classify
-tutorials/biolord_omics
+tutorials/BenchmarkSimulation2L
 ```
