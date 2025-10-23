@@ -1,8 +1,9 @@
 from . import _utils as ul
 from ._model import Biolord
 from ._module import BiolordClassifyModule, BiolordModule
+from .model import CauTrigger1L
 
-__all__ = ["Biolord", "BiolordModule", "BiolordClassifyModule"]
+__all__ = ["Biolord", "BiolordModule", "BiolordClassifyModule", "CauTrigger1L"]
 
 
 def _get_version() -> str:
